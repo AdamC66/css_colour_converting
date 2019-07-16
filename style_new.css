@@ -125,7 +125,7 @@ dfn {
    */
 mark {
     background-color: #ff0;
-    color: white
+    color: #fff
     }
 /**
    * Add the correct font size in all browsers.
@@ -368,7 +368,7 @@ button, input[type="button"], input[type="reset"], input[type="submit"], button,
     background-color: #007aff;
     border-radius: 3px;
     border: none !important;
-    color: white;
+    color: #fff;
     cursor: pointer;
     display: inline-block;
     font-family: Circular, "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
@@ -581,12 +581,12 @@ h1.form-section-title {
     width: 50%
     }
 .is-over-limit {
-    color: tomato;
+    color: #ff6347;
     font-weight: bold
     }
 label.profile-error {
     font-weight: normal;
-    color: tomato;
+    color: #ff6347;
     margin-top: 0.5rem
     }
 .form-subsection {
@@ -913,7 +913,7 @@ section::after {
     padding: 0;
     font-size: 1em;
     line-height: 1.5em;
-    color: white
+    color: #fff
     }
 .site-nav > .auth-actions {
     position: relative;
@@ -1304,7 +1304,7 @@ a.context-header-content:hover {
     font-size: 2em
     }
 .fa-inverse {
-    color: white
+    color: #fff
     }
 .sr-only {
     position: absolute;
@@ -1533,7 +1533,7 @@ body.vex-open {
     border-radius: 5px;
     font-family: "Helvetica Neue", sans-serif;
     background: #f0f0f0;
-    color: darkgrey;
+    color: #a9a9a9;
     padding: 1em;
     position: relative;
     margin: 0 auto;
@@ -1955,7 +1955,7 @@ body.vex-open {
     background-color: #fdf59a
     }
 .datepicker table tr td.today:active, .datepicker table tr td.today:hover:active, .datepicker table tr td.today.disabled:active, .datepicker table tr td.today.disabled:hover:active, .datepicker table tr td.today.active, .datepicker table tr td.today:hover.active, .datepicker table tr td.today.disabled.active, .datepicker table tr td.today.disabled:hover.active {
-    background-color: #fbf069 	
+    background-color: #fbf069
     }
 .datepicker table tr td.today:hover:hover {
     color: #000
@@ -1980,7 +1980,7 @@ body.vex-open {
     background-color: #f3e97a
     }
 .datepicker table tr td.range.today:active, .datepicker table tr td.range.today:hover:active, .datepicker table tr td.range.today.disabled:active, .datepicker table tr td.range.today.disabled:hover:active, .datepicker table tr td.range.today.active, .datepicker table tr td.range.today:hover.active, .datepicker table tr td.range.today.disabled.active, .datepicker table tr td.range.today.disabled:hover.active {
-    background-color: #efe24b 	
+    background-color: #efe24b
     }
 .datepicker table tr td.selected, .datepicker table tr td.selected:hover, .datepicker table tr td.selected.disabled, .datepicker table tr td.selected.disabled:hover {
     background-color: #9e9e9e;
@@ -1996,7 +1996,7 @@ body.vex-open {
     background-color: #808080
     }
 .datepicker table tr td.selected:active, .datepicker table tr td.selected:hover:active, .datepicker table tr td.selected.disabled:active, .datepicker table tr td.selected.disabled:hover:active, .datepicker table tr td.selected.active, .datepicker table tr td.selected:hover.active, .datepicker table tr td.selected.disabled.active, .datepicker table tr td.selected.disabled:hover.active {
-    background-color: #666 	
+    background-color: #666
     }
 .datepicker table tr td.active, .datepicker table tr td.active:hover, .datepicker table tr td.active.disabled, .datepicker table tr td.active.disabled:hover {
     background-color: #006dcc;
@@ -2012,7 +2012,7 @@ body.vex-open {
     background-color: #04c
     }
 .datepicker table tr td.active:active, .datepicker table tr td.active:hover:active, .datepicker table tr td.active.disabled:active, .datepicker table tr td.active.disabled:hover:active, .datepicker table tr td.active.active, .datepicker table tr td.active:hover.active, .datepicker table tr td.active.disabled.active, .datepicker table tr td.active.disabled:hover.active {
-    background-color: #039 	
+    background-color: #039
     }
 .datepicker table tr td span {
     display: block;
@@ -2046,7 +2046,7 @@ body.vex-open {
     background-color: #04c
     }
 .datepicker table tr td span.active:active, .datepicker table tr td span.active:hover:active, .datepicker table tr td span.active.disabled:active, .datepicker table tr td span.active.disabled:hover:active, .datepicker table tr td span.active.active, .datepicker table tr td span.active:hover.active, .datepicker table tr td span.active.disabled.active, .datepicker table tr td span.active.disabled:hover.active {
-    background-color: #039 	
+    background-color: #039
     }
 .datepicker table tr td span.old, .datepicker table tr td span.new {
     color: #999
@@ -2382,7 +2382,7 @@ body.vex-open {
     text-decoration: underline
     }
 .flash-alert a:focus, .flash-alert a:hover {
-    color: black
+    color: #000
     }
 .flash-error {
     background-color: #fbe3e4;
@@ -2430,7 +2430,7 @@ body.vex-open {
     text-decoration: underline
     }
 .flash-success a:focus, .flash-success a:hover {
-    color: black
+    color: #000
     }
 #flash-list {
     position: fixed;
@@ -3032,7 +3032,7 @@ body.vex-open {
     -webkit-transform-origin: 25% 0;
     transform-origin: 25% 0;
     background-color: #dd4646;
-    color: white
+    color: #fff
     }
 .referral-token-container {
     margin-top: 2em;
@@ -3146,7 +3146,7 @@ td.submit-submission form .input input {
 .submit-submission .btn-upload {
     cursor: pointer;
     background-color: #007aff;
-    color: white;
+    color: #fff;
     width: 100%;
     padding: 0.5em;
     border-radius: 3px;
@@ -3276,7 +3276,7 @@ td.submit-submission form .input input {
     }
 .ticket-status {
     padding: 2em 0.5em;
-    color: white;
+    color: #fff;
     background-color: #323232;
     font-size: 1.5em;
     line-height: 1.25;
@@ -3687,7 +3687,7 @@ td.submit-submission form .input input {
     margin-bottom: 0.2em;
     padding: 0.25em 1em;
     border-radius: 3px;
-    color: white;
+    color: #fff;
     background-color: #00c579
     }
 .quiz-student-result > h5 {
